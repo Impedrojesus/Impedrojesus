@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Pedro Henrique 
 
-- 🔭 Hoje trabalho com infraestrutura de TI
 - 🌱 Estudando Java 
 - 💬 Contate-me no email: pedro.henriquet2d18@gmail.com
 
