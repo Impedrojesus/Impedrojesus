@@ -28,18 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="mailto:pedro.henriquet2d18@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-jesus/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
-</div>
-
-###
 
 ![snake gif](https://github.com/Impedrojesus/Impedrojesus/blob/output/github-contribution-grid-snake.svg)
